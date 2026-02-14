@@ -4,7 +4,7 @@ body {
     display: flex;
     justify-content: center;
     align-items:center;
-    background-image: url("background_black.jpg");
+    background-image: url("background.jpg");
     font-family: "Aldrich", sans-serif;
 }
 
@@ -135,4 +135,5 @@ p{
     padding: 10px 20px;
     background-color:lightpink;
     border-radius: 12px;
+
 }
